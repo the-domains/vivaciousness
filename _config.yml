@@ -1,0 +1,28 @@
+name: Vivaciousness
+favicon: null
+layout_spectrum: 0.6073886319063604
+typography_spectrum: 0.3715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fefefe'
+    - '#2a292e'
+    - '#4a494f'
+    - '#8699a1'
+    - '#beab9f'
+  brandStrength: 0.3125
+  lightness: 0.32843657792545855
+  saturation: 0.4985720971599221
+  rhythmicContrast: 0.38213634374551475
+purpose: []
