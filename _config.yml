@@ -1,7 +1,8 @@
 name: Vivaciousness
 favicon: null
 layout_spectrum: 0.6073886319063604
-typography_spectrum: 0.8063367679715157
+typography_spectrum: 0.3715
+title: 'Africa: practically inexhaustible - like our ideas.'
 cta:
   domain: null
   bucket: null
@@ -16,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3370138253085315
+    - '#ffffff'
+    - '#c8cdd0'
+    - '#000000'
+    - '#616a69'
+    - '#0882b9'
+  brandStrength: 0.3125
   lightness: 0.32843657792545855
   saturation: 0.4985720971599221
   rhythmicContrast: 0.38213634374551475
