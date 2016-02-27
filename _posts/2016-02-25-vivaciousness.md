@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T23:35:35.413Z'
-dateModified: '2016-02-27T23:34:42.155Z'
+datePublished: '2016-02-27T23:38:29.842Z'
+dateModified: '2016-02-27T23:38:12.950Z'
 title: Vivaciousness
 author: []
 sourcePath: _posts/2016-02-25-vivaciousness.md
@@ -24,6 +24,4 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c97b3e04-e53c-4f64-8aad-b9478da5c7ef.jpg)
 
-Vivaciousness
-
-This space is about to happen...
+Coming soon...
